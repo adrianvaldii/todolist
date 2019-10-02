@@ -12,6 +12,8 @@ example :
 - DB_USERNAME=root
 - DB_PASSWORD=Valdi@99
 
++ run 'php artisan migrate'
+
 + Using the Apps
 
 1. Run the Apps using "php artisan serve"
